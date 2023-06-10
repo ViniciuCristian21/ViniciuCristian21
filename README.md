@@ -5,7 +5,7 @@
 
 <h2>Contatos</h2>
 
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](viniciu.cristian2014@gmail.com)
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciu.cristian2014@gmail.com)
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciu-cristian-206672184/)
 [![Contact](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciu.cristian/)
 
