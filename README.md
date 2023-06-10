@@ -1,7 +1,7 @@
-<h1 align="center">Welcome</h1>
+<h1>Welcome</h1>
 
 
-<h2 align="center">Hello my name is viniciu cristan</h2>
+<h2>Hello my name is viniciu cristan</h2>
 
 <h2>Contatos</h2>
 
